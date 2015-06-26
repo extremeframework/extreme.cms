@@ -2,11 +2,11 @@
 
 This is a content management package that is built for Extreme Framework.
 
-## Installation
+### Installation
 (coming soon)
 
-## Configuration
+### Configuration
 (coming soon)
 
-## Themes
+### Themes
 (coming soon)
